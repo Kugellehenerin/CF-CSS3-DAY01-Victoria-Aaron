@@ -1,5 +1,5 @@
 .container{
-    width: 800px;
+    width: 800px; /* insert auto to make it dynamic*/
     background: grey;
     padding: 50px;
     
@@ -31,10 +31,13 @@ li{
 footer{
     text-align: center;
 }
-.rating > span{
-    color: #f4b400;
+.rating{
+    text-align: center;
     font-size: 25px;
 }
+.rating > span {
+    color: #f4b400;
+  }
 .container{
     font-family: 'Happy Monkey', cursive;
 }
