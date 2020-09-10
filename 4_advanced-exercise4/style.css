@@ -2,10 +2,11 @@ img{
     margin-left: auto;
     margin-right: auto;
     display: block;
+    scale: 20%;
 }
 #logo{
     border: 1px solid black;
-    background: black;
+    background: white;
 }
 nav{
     text-align: center;
@@ -17,17 +18,16 @@ nav{
     border: 15px solid blue;
     background: blue;
 }
-#container-parent{
+#container {
     text-align: center;
-    border: 15px solid red;
-    background: red;
     float: left;
-    width: 33%;
+    width: 30%;
     padding: 10px;
     height: auto;
-    column-gap: 5px;
+    column-gap: 1em;
+    border: black solid;
 }
-#container1{
+#container-parent{
     content: "";
     display: table;
     clear: both;
