@@ -7,11 +7,9 @@
 p li {
     color: #707070;
     }
-/*
 header{
     text-align: center;
 }
-*/
 h1 {
     color: #DB0038;
 }
@@ -21,7 +19,7 @@ h2{
 h3{
     color: #474747;
 }
-/*hero*/{
+.hero{
     background-color: #f4f4f4;
     text-align: center;
     padding-botton: 10px;
@@ -33,6 +31,10 @@ li{
 footer{
     text-align: center;
 }
-body{
+.rating > span{
+    color: #f4b400;
+    font-size: 25px;
+}
+.container{
     font-family: 'Happy Monkey', cursive;
 }
