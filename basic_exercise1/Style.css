@@ -1,0 +1,38 @@
+.container{
+    width: 800px;
+    background: grey;
+    padding: 50px;
+    
+}
+p li {
+    color: #707070;
+    }
+/*
+header{
+    text-align: center;
+}
+*/
+h1 {
+    color: #DB0038;
+}
+h2{
+    color: #3998A3;
+}
+h3{
+    color: #474747;
+}
+/*hero*/{
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-botton: 10px;
+}
+li{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+footer{
+    text-align: center;
+}
+body{
+    font-family: 'Happy Monkey', cursive;
+}
